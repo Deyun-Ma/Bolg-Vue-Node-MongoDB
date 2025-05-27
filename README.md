@@ -2,17 +2,22 @@
 
 这是一个基于 Vue 3 + Node.js + MongoDB 的博客管理系统，提供了完整的博客文章管理、用户认证等功能。
 
-## 图片展示
- 
-![Vue Blog Home](./src/assets/home.png)
+## 功能演示
 
-![Create Post](./src/assets/createpost.png)
+### 登录界面
+![登录](src/assets/login.png)
 
-![Blog List](./src/assets/blog.png)
+### 注册界面
+![注册](src/assets/signup.png)
 
-![Profile](./src/assets/Profile.png)
+### 首页
+![首页](src/assets/home.png)
 
-![Vue Logo](./src/assets/vue.svg)
+### 创建文章
+![创建文章](src/assets/create.png)
+
+### 个人资料
+![个人资料](src/assets/profile.png)
 
 ## 技术栈
 
